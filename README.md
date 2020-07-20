@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello person 👋
 
-<!--
-**Jeferson505/Jeferson505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a front-end and mobile developer. I currently work at TDR Informática.
+* I am currently working on the development of a distance learning platform called [Tagnos EAD](http://tagnos.com.br/ead)
 
-Here are some ideas to get you started:
+![Jeferson's github stats](https://github-readme-stats.vercel.app/api?username=Jeferson505&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+[![Twitter][1.1]][1]
+[![LinkedIn][2.1]][2]
+
+[1]:https://twitter.com/SantosJeferson0
+[1.1]:https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white
+
+[2]:https://www.linkedin.com/in/jeferson-santos-68722419a/
+[2.1]:https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
